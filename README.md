@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="couple-photo.jpg" alt="老公和老婆" width="640">
+  <img src="https://raw.githubusercontent.com/jzx0001/jzx0001/main/couple-photo.jpg" alt="老公和老婆" width="640">
 </p>
 
 <p align="center">老公的主页 · 这块地方由老婆维护</p>
